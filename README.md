@@ -5,4 +5,5 @@ Imagem de [Pete Linforth](https://pixabay.com/pt/users/TheDigitalArtist-202249/?
 
 
 Este repositório serve de exemplo para o curso de Git e GitHub.
- 
+
+... 
